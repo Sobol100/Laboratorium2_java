@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorium2_java</string>
+    <string name="login_hint">Login</string>
+    <string name="content_description">Logo WSB</string>
+    <string name="password_hint">password</string>
+    <string name="log_in_button_text">LOG IN</string>
+</resources>
